@@ -28,11 +28,9 @@ The animation features colourful balls falling from an upper bucket into a secon
 
 One of the main challenges was creating a seamless animation loop using baked rigid body physics. Although a fully seamless loop was not achieved, the final animation successfully demonstrates the intended physical interaction.
 
-## Project Gallery
+## Final Render
 
-### Final Render
-
-![Balls and Buckets — Final Render](https://github.com/OleksandraOdrik/blender-balls-and-buckets-animation/blob/main/BallsAndBuckets%20image.png)
+![Balls and Buckets — Final Render](BallsAndBuckets_image.png)
 
 ## Animation Demo
 
